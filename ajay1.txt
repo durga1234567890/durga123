@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is new file1
+=======
+this 2nd file 
+>>>>>>> dev
 
